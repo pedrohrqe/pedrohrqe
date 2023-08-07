@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Pedro Henrique</h1>
-<h3 align="center">Eu sou um desenvolvedor Front-End</h3>
+<h1 align="left">Olá 👋, meu nome é Pedro Henrique</h1>
+<h3 align="left">Eu sou um desenvolvedor Front-End</h3>
 
 - 🔭 Sou um desenvolvedor front-end web com ampla experiência em tecnologia. Tenho conhecimento em diversas áreas, desde desenvolvimento de sites em HTML5 até a criação de sistemas utilizando Java. Também possuo experiência em projetos envolvendo sistemas operacionais, incluindo uma adaptação do MacOS para hardware não Apple. Além disso, tenho habilidades em banco de dados que utilizei em diversos projetos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
