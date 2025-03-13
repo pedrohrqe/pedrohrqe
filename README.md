@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, meu nome é Pedro Henrique</h1>
 <h3 align="left">Eu sou um desenvolvedor Front-End</h3>
 
-- 🔭 Sou um desenvolvedor com experiência em algumas linguagens. Tenho conhecimento em diversas áreas, desde desenvolvimento de front-end com React até a criação de sistemas utilizando PHP. Também possuo experiência em projetos envolvendo sistemas operacionais, incluindo uma adaptação do MacOS para hardware não Apple. Além disso, tenho habilidades em banco de dados que utilizei em diversos projetos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+- 🔭 Sou um desenvolvedor com experiência em algumas linguagens. Tenho conhecimento em diversas áreas, desde desenvolvimento de front-end com React até a criação de sistemas utilizando PHP e Java. Também possuo experiência em projetos envolvendo sistemas operacionais, incluindo uma adaptação do MacOS para hardware não Apple. Além disso, tenho habilidades em banco de dados que utilizei em diversos projetos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 - 💬 Se você está procurando um desenvolvedor front-end apaixonado por tecnologia e criação de experiências digitais incríveis, fique à vontade para entrar em contato comigo! Estou sempre aberto a novas oportunidades de crescimento profissional e colaboração em projetos desafiadores.
 
