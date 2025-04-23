@@ -1,13 +1,13 @@
 <h1 align="left">Olá 👋, meu nome é Pedro Henrique</h1>
 <h3 align="left">Eu sou um desenvolvedor Front-End</h3>
 
-- 🔭 Sou um desenvolvedor com experiência em algumas linguagens. Tenho conhecimento em diversas áreas, desde desenvolvimento de front-end com React até a criação de sistemas utilizando PHP e Java. Também possuo experiência em projetos envolvendo sistemas operacionais, incluindo uma adaptação do MacOS para hardware não Apple. Além disso, tenho habilidades em banco de dados que utilizei em diversos projetos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+- 🔭 Sou um desenvolvedor com experiência em algumas áreas, desde desenvolvimento de front-end com JavaScript/ React até a criação de sistemas utilizando PHP e Java. Além disso, tenho habilidades em banco de dados, como MySQL que utilizei em diversos projetos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-- 💬 Se você está procurando um desenvolvedor front-end apaixonado por tecnologia e criação de experiências digitais incríveis, fique à vontade para entrar em contato comigo! Estou sempre aberto a novas oportunidades de crescimento profissional e colaboração em projetos desafiadores.
+- 💬 Se você está procurando um desenvolvedor apaixonado por tecnologia e desenvolver soluções criativas, fique à vontade para entrar em contato comigo! Estou sempre aberto a novas oportunidades de crescimento profissional e colaboração em projetos desafiadores.
 
-    Se tiver alguma pergunta sobre minhas experiências, projetos ou habilidades, não hesite em me perguntar. Adoro compartilhar minhas experiências e conhecimentos e estou disposto a ajudar de qualquer forma que eu puder.
+> Se tiver alguma pergunta sobre mim, não hesite em me perguntar. Adoro compartilhar minhas experiências e conhecimentos, e estou disposto a ajudarda forma que eu puder.
 
-- 🌱 No momento estou aprendendo mais sobre **JavaScript, React**
+- 🌱 No momento estou me aprimorando em **Java**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em
 [github.com/pedrohrqe?tab=repositories](github.com/pedrohrqe?tab=repositories)
